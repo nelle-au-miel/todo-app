@@ -1,5 +1,7 @@
 body {
     background-color: plum;
+    padding: 20px;
+    border: 10px solid #a276a2;
 }
 h1{
     color: white;
