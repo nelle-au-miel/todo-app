@@ -1,0 +1,10 @@
+body {
+    background-color: burlywood;
+    border: 20px solid cadetblue;
+}
+h1 {
+    text-decoration: underline;
+}
+button {
+    background-color: antiquewhite;
+}
